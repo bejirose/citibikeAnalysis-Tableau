@@ -8,7 +8,10 @@
 * Gender and User Grouo
 * Station ID
 
-### Created a few Visualizations based on the data and made the following analysis.
+## Created the following Visualizations using Tableau.
+https://public.tableau.com/profile/bejirose#!/vizhome/NYCitibikeAnalysis/CitiBike-Story
+
+###The following are the data analysis based on the data.
 
 1) The analysis based on the gender break down shows that the male users are more in numbers than female users. Also there are a few users those gender is unkownn. Most of the unknown gender group's birth year is older than 1900. May not be active, but the status of the users is not given.
 2) The number of yearly subscribers rode the bike longer than the daily customers.
